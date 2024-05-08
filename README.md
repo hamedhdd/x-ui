@@ -2,7 +2,7 @@
 **An Advanced Web Panel • Built on Xray Core**
 
 ![](https://img.shields.io/github/v/release/hamedhdd/x-ui.svg)
-![](https://img.shields.io/docker/pulls/alireza7/x-ui.svg)
+![](https://img.shields.io/docker/pulls/hamedhdd/x-ui.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hamedhdd/x-ui)](https://goreportcard.com/report/github.com/hamedhdd/x-ui)
 [![Downloads](https://img.shields.io/github/downloads/hamedhdd/x-ui/total.svg)](https://img.shields.io/github/downloads/hamedhdd/x-ui/total.svg)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
@@ -11,11 +11,9 @@
 
 **If you think this project is helpful to you, you may wish to give a**:star2:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/alireza7)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hamdex)
 
-- USDT (TRC20): `TYTq73Gj6dJ67qe58JVPD9zpjW2cc9XgVz`
-- Tezos (XTZ):
-`tz2Wnh2SsY1eezXrcLChu6idWpgdHzUFQcts`
+- USDT (TRC20): `TUFXRYEgexLUcoGZojHCa6JTuT6CD33Jhz`
 
 
 ## Quick Overview
